@@ -71,5 +71,8 @@ $ ./a.out 10
 ```
 #include <math.h>
 ...
-std::cout << std::sqrt(4) <<std::endl;
+std::cout << sqrt(4) <<std::endl;
 ```
+
+## new exercise
+decrypt git
